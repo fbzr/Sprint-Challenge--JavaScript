@@ -21,6 +21,9 @@ function add(a, b) {
   return a + b;
 }
 
+function multiply(a, b) {
+  return a * b;
+}
 
 /* Step 3: Check your work by un-commenting the following calls to consume(): */
 // console.log(consume(2, 2, add)); // 4
